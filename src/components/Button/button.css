@@ -1,0 +1,14 @@
+.button {
+    height: 80px;
+  border: 0;
+  font-family: "DINPro", Arial;
+  background: hsl(339, 100%, 71%);
+  border-radius: 100px;
+  font-size: 25px;
+  letter-spacing: 2px;
+  padding: 10px 30px 10px 12px;
+  gap: 14px;
+  display: flex;
+  cursor: pointer;
+  align-items: center;
+}
