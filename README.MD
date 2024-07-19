@@ -1,5 +1,7 @@
 Тестовое задание на Front-end разработчика Onpoint 
 
+Демо: https://onpoint-test-two.vercel.app/
+
 Режим разработчика:
 ```
 npm run dev
