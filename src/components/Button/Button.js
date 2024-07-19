@@ -1,10 +1,12 @@
 import './button.css';
 
 function Button(props) {
-    const { className, children, onClick } = props;
+  const { className, children, onClick } = props;
   return (
     <>
-      <button className={`button ${className}`}>{children}</button>
+      <button onClick={onClick} className={`button ${className}`}>
+        {children}
+      </button>
     </>
   );
 }
